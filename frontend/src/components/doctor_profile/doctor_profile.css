@@ -33,8 +33,9 @@
 .btnS {
   display: flex;
   flex-direction: row;
-  margin-bottom: 25px;
+ 
   margin-right: 50px;
+ 
 }
 .btnS button {
   margin-left: 15px;
